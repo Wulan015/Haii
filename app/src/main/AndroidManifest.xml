@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Haii">
         <activity
+            android:name=".hallo7"
+            android:exported="true" />
+        <activity
+            android:name=".hallo6"
+            android:exported="true" />
+        <activity
+            android:name=".hallo5"
+            android:exported="true" />
+        <activity
+            android:name=".hallo4"
+            android:exported="true" />
+        <activity
+            android:name=".hallo3"
+            android:exported="true" />
+        <activity
+            android:name=".hallo2"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

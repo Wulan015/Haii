@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Haii</string>
-    <string name="pindah_ke_hallo2">pindah_ke_hallo2</string>
-    <string name="pindah_hallo3">pindah_hallo3</string>
-    <string name="pindah_ke_hallo4">pindah_ke_hallo4</string>
-    <string name="pindah_hallo5">pindah_hallo5</string>
-    <string name="pindah_ke_hallo6">pindah_ke_hallo6</string>
-    <string name="pindah_hallo7">pindah_hallo7</string>
+    <string name="hallo2" />
+    <string name="hallo3" />
+    <string name="hallo4" />
+    <string name="hallo5" />
+    <string name="hallo6" />
+    <string name="hallo7" />
 
 
 </resources>
